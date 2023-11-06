@@ -42,7 +42,7 @@ Provide a brief introduction to your project. Explain what the goal of the proje
 
 Explain how to install or set up your project. Include any installation steps, such as:
 
-- Clone the repository: `https://github.com/Jayasurya9654/House-Price-Prediction-Using-Machine-Learning`
+- Clone the repository: `https://github.com/M-Aravindhan/Housepricepredict.git`
 - Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
@@ -119,7 +119,7 @@ Predicting house prices is a common machine learning problem with various real-w
 
 Explain how to install or set up your project. Include any installation steps, such as:
 
-- Clone the repository: `git clone https://github.com/Jayasurya9654/House-Price-Prediction-Using-Machine-Learning`
+- Clone the repository: `git clone https://github.com/M-Aravindhan/Housepricepredict.git `
 - Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
